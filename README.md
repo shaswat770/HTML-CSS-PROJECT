@@ -16,13 +16,6 @@ HTML5
 
 CSS3
 
-🔧 How to Use
-
-Clone the repo:
-
-git clone https://github.com/yourusername/youtube-interface-clone.git
-
-Open index.html in a browser.
 
 📌 Note
 
